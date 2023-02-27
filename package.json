@@ -1,0 +1,19 @@
+{
+  "name": "attta",
+   "version": "1.0.0",
+    "description": "new start",
+    "scripts": {
+        
+        "start": "app.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArindamGhoshAni/attta.git"
+    },
+    "author": "Arindam Ghosh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ArindamGhoshAni/attta/issues"
+    },
+    "homepage": "https://github.com/ArindamGhoshAni/attta#readme"
+}
