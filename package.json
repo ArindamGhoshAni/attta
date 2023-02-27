@@ -4,7 +4,7 @@
     "description": "new start",
     "scripts": {
         
-        "start": "app.py"
+        "start": "main.py"
     },
     "repository": {
         "type": "git",
